@@ -4,7 +4,6 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import { RouterProvider } from "react-router-dom";
 import { createBrowserRouter } from "react-router-dom";
-import { BrowserRouter } from "react-router-dom";
 import Layout from "./Layout.jsx";
 import Resume from "./Pages/Resume.jsx";
 import About from "./Pages/About.jsx";
