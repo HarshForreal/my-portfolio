@@ -52,8 +52,11 @@ li:hover {
   margin: 0 auto;
   padding: 2rem;
 }
-/* 
-svg {
-  height: 150px;
-  width: 150px;
-} */
+
+.font-heading {
+  font-family: "SF Pro Display", sans-serif;
+}
+
+.experience-content {
+  margin-top: 188px;
+}
