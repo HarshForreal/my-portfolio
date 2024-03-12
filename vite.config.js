@@ -8,4 +8,9 @@ export default defineConfig({
       external: ["react-router-dom"],
     },
   },
+  resolve: {
+    alias: {
+      "react-router-dom": "/@modules/react-router-dom",
+    },
+  },
 });
